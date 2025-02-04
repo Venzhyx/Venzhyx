@@ -8,7 +8,20 @@
 
 ###
 
-<h5 align="left">I’m a passionate Software Developer & Creative Technologist specializing in Android & web development, UI/UX design, and multimedia production. I create intuitive applications and efficient systems that elevate user experience and productivity.<br><br>🎓 Student at SMKN 1 Cimahi<br>📌 Currently exploring advanced Android development, UI/UX best practices, and full-stack optimization.<br><br>📧 zufarrasyidibrahim@gmail.com<br>🌐 jupjupar.my.id<br><br>Let’s build something impactful together! 🚀</h5>
+<h5 align="left">
+🚀 <b>I’m a passionate Software Developer & Creative Technologist</b>  
+Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Production.</b>  
+I create <b>intuitive applications</b> and <b>efficient systems</b> that elevate user experience and productivity.  
+
+🎓 <b>Student at SMKN 1 Cimahi</b>  
+📌 <b>Currently exploring:</b> Advanced Android Development, UI/UX best practices, and Full-Stack Optimization.  
+
+📧 <b>Email:</b> saifulgifarievandwi@gmail.com
+🌐 <b>Website:</b> <a href="https://evands.my.id" target="_blank">evands.my.id</a>  
+
+🔥 <i>Let’s innovate and build something impactful together!</i> 🚀  
+</h5>
+
 
 ###
 
