@@ -17,7 +17,7 @@ Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Produ
 🎓 <b>Student at SMKN 1 Cimahi</b>  
 📌 <b>Currently exploring:</b> Advanced Android Development, UI/UX best practices, and Full-Stack Optimization.  
 
-📧 <b>Email:</b> saifulgifarievandwi@gmail.com
+📧 <b>Email:</b> saifulgifarievandwi@gmail.com <br>
 🌐 <b>Website:</b> <a href="https://evands.my.id" target="_blank">evands.my.id</a>  
 
 🔥 <i>Let’s innovate and build something impactful together!</i> 🚀  
