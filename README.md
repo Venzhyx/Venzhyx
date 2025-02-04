@@ -55,16 +55,16 @@ Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Produ
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@joeparb2352" target="_blank">
+  <a href="https://www.youtube.com/@9k-14evandwis9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/jupjupar/" target="_blank">
+  <a href="https://www.instagram.com/vennshikiii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/users/vond.joepar" target="_blank">
+  <a href="https://discord.com/channels/users/wannaabeyours" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.facebook.com/muhammad.zufar.14224/" target="_blank">
+  <a href="https://www.facebook.com/a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
 </div>
