@@ -1,9 +1,9 @@
-<h1 align="left">💫About me?</h1>
+<h1 align="left">🌟About me?</h1>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlwNGY1czEwa3BjcXBjZXpyOTU0ZHYzeGNxMGVrZHZxbHVudm9mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif"  />
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lqZGdoMW1uNnByMTdibm05eHM0ZDVkMTl4a214Z25pY2h0b3pyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif"  />
 </div>
 
 ###
