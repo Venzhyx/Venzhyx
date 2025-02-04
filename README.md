@@ -10,9 +10,7 @@
 
 <h5 align="left">
 🚀 <b>I’m a passionate Software Developer & Creative Technologist</b>  
-Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Production.</b>  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>  I create intuitive applications</b> and <b>efficient systems</b>  
-that elevate user experience and productivity.  
+Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Production.</b>    
 </h5>
 
 
