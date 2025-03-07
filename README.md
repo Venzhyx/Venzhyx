@@ -84,14 +84,6 @@ Specializing in <b>Android & Web Development, UI/UX Design, and Multimedia Produ
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/rf4gw2swb67nu90qndl87e3xo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rf4gw2swb67nu90qndl87e3xo&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Vonhautten/Vonhautten/output/snake.svg" alt="Snake animation" />
 
 ###
